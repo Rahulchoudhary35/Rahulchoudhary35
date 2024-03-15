@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/daca3ca4-116e-11ee-aee9-6727c26a7834/fyEGuj0134.gif">
 
 
-- 🌱 I’m currently learning **React,AWS**
+- 🌱 I’m currently learning **Power BI,AWS**
 
 - 📫 How to reach me **rahulchoudhary6327@gmail.com**
 
